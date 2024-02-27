@@ -6,10 +6,10 @@ pinned = false
 image = "screenshot-2024-02-23-095751.jpg"
 description = "Vom Adoptivvater geschlagen, vom Drogenkonsum geprägt. Nachdem Roger Meier 22 Jahre auf der Gasse gelebt hat, wandte sich seine Lebensgeschichte dank Surprise zum Guten."
 +++
-`{{<lead>}}`\
+{{<lead>}}\
 Vom Adoptivvater geschlagen, vom Drogenkonsum geprägt. Nachdem Roger Meier 22 Jahre auf der Gasse gelebt hat, wandte sich seine Lebensgeschichte dank Surprise zum Guten.
 
-`{{</lead>}}`
+{{</lead>}}
 
 Elias Stamatiadis, Malou Gygax
 
@@ -27,7 +27,7 @@ Es ist Freitagmorgen. Vor dem Stadtrundgang bleibt noch etwas Zeit. Die kleine G
 > \
 > *Roger Meier*
 
-###  “Surprise wirkt”
+### “Surprise wirkt”
 
 “WeÜber 22 Jahre lebte Roger auf der Strasse und hatte sich dabei weitgehend alleine durchgeschlagen. Der Beginn dieses Lebensabschnittes war vom eigenen Drogenkonsum geprägt. Als im Jahr 1991 die Drogenszene von der kleinen Schanze in den Kocherpark verschoben wurde, hatte er begonnen, für die Suchtberatung der Stadt Bern zu arbeiten. Voraussetzung dafür war, dass er sich verpflichtete, keine Drogen mehr zu nehmen. Die Zusage markierte gleichzeitig das Ende seines Drogenkonsums. Als Obdachloser hatte er somit eine Arbeit mit festem Lohn und bezahlten Ferien. Eine der wichtigsten Aufgaben als Streetworker bestand darin, dafür zu sorgen, dass es zu keinen Drogentoten kam. Dazu musste Roger mehrere Wiederbelebungen pro Tag durchführen. Mit der Auflösung der offenen Drogenszene wechselte Roger seine Arbeit. Fortan verdiente er sein Geld auf dem Bau, zeitweise auch in seiner eigenen Baufirma, die er mit Kollegen gegründet hatte. Als Surprise vor sieben Jahren auf Roger Meier zukam und ihn fragte, ob er soziale Stadtrundgänge in der Stadt Bern machen will, war es für ihn von Anfang an klar. Er wollte mitmachen! Er unterschrieb den Arbeitsvertrag, machte eine Ausbildung als Stadtführer und besuchte Sprach- und Schauspielunterricht. Dank seinen Stadtführungen und dem Verkauf des Surprise Magazins, hatte er einen guten Lohn. “Wenn Surprise nicht wäre, dann wäre ich niemals da wo ich bin,” meint Roger Meier. Obwohl er sich durch dieses Einkommen theoretisch eine Wohnung hätte leisten können, war dies nicht möglich. Denn für einen Mietvertrag fehlte ihm stets eine Wohnadresse. Glücklicherweise bekam er bald nach der Anstellung bei Surprise einen Anruf vom Verein “Wohnen Bern”. Zu seiner Freude, wurde ihm eine kleine Wohnung angeboten. Als Roger den Mietpreis hörte, wusste er, dass er es sich leisten konnte. Durch den Briefkasten war er wieder erreichbar, konnte ein Bankkonto einrichten und eine neue Identitätskarte machen. 
 
@@ -37,7 +37,7 @@ Es ist Freitagmorgen. Vor dem Stadtrundgang bleibt noch etwas Zeit. Die kleine G
 
 ![Roger Meier bei seiner Stadtführung auf dem Münsterplatz. (verfügbar unter Stand https://www.dominiksitter.com/post/leben-auf-der-strasse 23.02.2024)](screenshot-2024-02-23-095751.jpg)
 
-###  Der Verein Surprise
+### Der Verein Surprise
 
 Die Vision von Surprise ist eine Schweiz ohne Armut und soziale Ausgrenzung. Ihre verschiedenen Angebote sollen Menschen in Geldnot oder mit sozialer Benachteiligung unterstützen. Dazu gehören Möglichkeiten zum Geldverdienen oder die Teilnahme an gesellschaftlichen Anlässen. Auch die Aufklärung der Öffentlichkeit in Bezug auf Armut und soziale Gerechtigkeit gehört zu ihren Aufgaben. Die Idee stammt ursprünglich von mehreren Personen, die selber von Armut betroffen waren. Sie wussten, wie schnell man in den Notstand rutschen kann und wollten Menschen in ähnlichen Situationen helfen. Der Verein wurde im Jahr 1998 gegründet. Am bekanntesten ist wohl die Zeitschrift “Surprise”. Jährlich werden rund 500’000 Exemplare verkauft. Der Monat Dezember ist mit Abstand der verkaufsstärkste Monat. So wurden im Dezember 2022 über 70’000 Strassenmagazine verkauft. Wer die Zeitschrift verkaufen möchte, kann sich bei Surprise melden. Neben Obdachlosen gehören unter anderem auch Pensionierte, welche ihre Rente aufbessern möchten, zum Verkaufsteam. Ungefähr die Hälfte des Verkaufspreises, der aktuell bei 8 Franken liegt, können die Verkäuferinnen und Verkäufer als Lohn behalten. Es gibt Menschen, die bis zu tausend Hefte pro Monat verkaufen. Dadurch können sie sich ihren Lebensunterhalt verdienen.
 
