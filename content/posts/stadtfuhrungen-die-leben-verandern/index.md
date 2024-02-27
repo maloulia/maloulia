@@ -50,5 +50,6 @@ Neben dem Strassenmagazin und den Stadtrundgängen gehören auch soziale Aktivit
 
 Obdachlose in der Schweiz
 
-Der Bund schätzt, dass im Jahr 2022 schweizweit 2’200 Menschen von Obdachlosigkeit betroffen sind und etwa 8’000 von Wohnungsverlust bedroht werden. Hierbei gilt es aber zu beachten, dass man nur als obdachlos gilt, wenn man wirklich auf der Strasse schläft. Wenn man jedoch bei Kolleg*innen im Keller oder im Auto wohnt, gilt man offiziell nicht als obdachlos.\
+Der Bund schätzt, dass im Jahr 2022 schweizweit 2’200 Menschen von Obdachlosigkeit betroffen sind und etwa 8’000 von Wohnungsverlust bedroht werden. Hierbei gilt es aber zu beachten, dass man nur als obdachlos gilt, wenn man wirklich auf der Strasse schläft. Wenn man jedoch bei Kolleg*innen im Keller oder im Auto wohnt, gilt man offiziell nicht als obdachlos.
+
 {{</box>}}
