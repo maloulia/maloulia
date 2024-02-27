@@ -48,11 +48,11 @@ Ich arbeitete die meiste Zeit, währenddem ich auf der Strasse lebte. Ich verdie
 
 Die Träume, die ich mal hatte, konnte ich mir erfüllen. Mein verdientes Geld konnte ich in meine Träume stecken, denn als Obdachloser brauchte ich kein Geld für eine Wohnung. Ich träumte immer davon, ein Formel 1 Auto zu fahren. Ich machte einen Kurs in Le Castellet, eine ganze Woche lang. Ich fing mit der Formel 4 an und am Sonntag fuhr ich Formel 1. Es kostete sehr viel Geld, aber das kann mir niemand mehr nehmen. Ich machte einen Fallschirmsprung, wagte einen Bungee Jump und war am Meer. Ich erlebte die verrücktesten Sachen und ich muss mit 64 Jahren keinen Träumen mehr  hinterherrennen.
 
-`{{<box>}}`
+{{<box>}}
 
 Obdachlose in der Schweiz 
 
 Der Bund schätzt, dass im Jahr 2022 schweizweit 2’200 Menschen von Obdachlosigkeit betroffen sind und etwa 8’000 von Wohnungsverlust bedroht werden. Hierbei gilt es aber zu beachten, dass man nur als obdachlos gilt, wenn man wirklich auf der Strasse schläft. Wenn man jedoch bei Kolleg*innen im Keller oder im Auto wohnt, gilt man offiziell nicht als obdachlos.
 
 \
-`{{<box>}}`
+{{<box>}}
